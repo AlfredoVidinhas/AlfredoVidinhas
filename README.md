@@ -49,3 +49,13 @@
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 #
+
+### 📺 Latest YouTube Videos
+
+<!-- BEGIN YOUTUBE-CARDS -->
+[![Heyech OS Update 2.0.0.3](https://ytcards.demolab.com/?id=rW8T_75eAMU&title=Heyech+OS+UPDATE&lang=en&timestamp=1702918620&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=482 "Heyech OS Update 2.0.0.3")](https://www.youtube.com/watch?v=rW8T_75eAMU)
+<!-- END YOUTUBE-CARDS -->
+
+[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://youtube.com/@alfredovidinhas8753?si=wbQsItQv1lOkvkd1?sub_confirmation=1)
+
+#
