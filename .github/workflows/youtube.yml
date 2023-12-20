@@ -8,6 +8,9 @@ on:
 jobs:
   deploy:
     runs-on: ubuntu-latest
+    # Allow the job to commit to the repository
+    permissions:
+      contents: write
     steps:
       - uses: DenverCoder1/github-readme-youtube-cards@main
         with:
