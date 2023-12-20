@@ -8,7 +8,6 @@
 - 💬 Ask me about Javascript or TypeScript, Frontend and SwiftUI
 - 📫 How to reach me: alfredoezequiel2@gmail.com
 
-<br/>
 
 <h3> Connect with me:</h3>
 
