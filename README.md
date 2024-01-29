@@ -53,7 +53,12 @@
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![Heyech OS Update 2.0.0.3](https://ytcards.demolab.com/?id=rW8T_75eAMU&title=Heyech+OS+Update+2.0.0.3&lang=en&timestamp=1462477908&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=411 "Heyech OS Update 2.0.0.3")](https://www.youtube.com/watch?v=rW8T_75eAMU)
+[![Heyech OS update 2.0.0.2](https://ytcards.demolab.com/?id=D8s2SikI8WY&title=Heyech+OS+update+2.0.0.2&lang=en&timestamp=1452697741&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=575 "Heyech OS update 2.0.0.2")](https://www.youtube.com/watch?v=D8s2SikI8WY)
+[![News of Heyech O.S 2.0 and Viz Alati the voice assistent feito no Vb.Net](https://ytcards.demolab.com/?id=W9zy5_CmOuU&title=News+of+Heyech+O.S+2.0+and+Viz+Alati+the+voice+assistent+feito+no+Vb.Net&lang=en&timestamp=1449959489&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=556 "News of Heyech O.S 2.0 and Viz Alati the voice assistent feito no Vb.Net")](https://www.youtube.com/watch?v=W9zy5_CmOuU)
+[![More about Heyech O S 2.0 Preview](https://ytcards.demolab.com/?id=Eq8qjbxXsqY&title=More+about+Heyech+O+S+2.0+Preview&lang=en&timestamp=1448705192&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=328 "More about Heyech O S 2.0 Preview")](https://www.youtube.com/watch?v=Eq8qjbxXsqY)
+[![Heyech 2 0 Preview VB.Net](https://ytcards.demolab.com/?id=Sg3NqeizHNY&title=Heyech+2+0+Preview+VB.Net&lang=en&timestamp=1448023979&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=196 "Heyech 2 0 Preview VB.Net")](https://www.youtube.com/watch?v=Sg3NqeizHNY)
+[![Viz Alati -  Voice Assistent of Heyech O.S](https://ytcards.demolab.com/?id=8bZCY1agC40&title=Viz+Alati+-++Voice+Assistent+of+Heyech+O.S&lang=en&timestamp=1447436981&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=182 "Viz Alati -  Voice Assistent of Heyech O.S")](https://www.youtube.com/watch?v=8bZCY1agC40)
 <!-- END YOUTUBE-CARDS -->
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://youtube.com/@alfredovidinhas8753?si=wbQsItQv1lOkvkd1?sub_confirmation=1)
